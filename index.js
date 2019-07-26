@@ -14,11 +14,13 @@ let hue = 0;
 let direction = true;
 
 function draw(e) {
-  if (!isDrawing) 
+  if (!isDrawing) return; // stop the fn from running when they are not moused down
   console.log(e);
   ctx.strokeStyle = `hsl(${hue}, 100%, 50%)`;
   ctx.beginPath();
+  // start from
   ctx.moveTo(lastX, lastY);
+  // go to
   ctx.lineTo(e.offsetX, e.offsetY);
   ctx.stroke();
   [lastX, lastY] = [e.offsetX, e.offsetY];
