@@ -2,7 +2,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Anayo_Oleru?style=social)
 
 # Free-Color
-Day 1: A collection of drums and other percussion instruments. Fun to play drum, you can customize your a song, a beat or try out any sound you want, just by hitting the corresponding keys on your keyboard.
+Day 8: It's a virtual paint board, with colors that ranges from yellow, blue etc, colors are automatically selected. You move your cursor around the browser window to generate colors.
 
 https://anayooleru.github.io/Free-Color/
 
