@@ -4,7 +4,7 @@
 # Free-Color
 Day 1: A collection of drums and other percussion instruments. Fun to play drum, you can customize your a song, a beat or try out any sound you want, just by hitting the corresponding keys on your keyboard.
 
-https://anayooleru.github.io/JavascriptDrumkit/
+https://anayooleru.github.io/Free-Color/
 
 ### 30DaysCodeChallenge:
 Javascript 30 days challenge. All through 30 days, I'll be building things, a lot of things. I never did decide on a side project, but that’s okay! Over the first 30 days of the challenge, I focused on exploring different areas of programming I have not had the chance to explore yet, pure Javascript methods and functions.
@@ -15,7 +15,7 @@ Javascript 30 days challenge. All through 30 days, I'll be building things, a lo
 - Encourage other people taking the challenge by sharing and interacting with their tweets.
 
 ## Link
-https://anayooleru.github.io/JavascriptDrumkit/
+https://anayooleru.github.io/Free-Color/
 
 ## Challenge Road Map
 
@@ -25,7 +25,7 @@ Pivotal-tracker board [Pivotal-board](https://www.pivotaltracker.com/n/projects/
 
 ```
 - Clone the repository to your computer ensure to run the command below in the directory you want to store the project.
-    # git clone https://github.com/AnayoOleru/JavascriptDrumkit.git
+    # git clone https://github.com/AnayoOleru/Free-Color.git
 ```
 
 
